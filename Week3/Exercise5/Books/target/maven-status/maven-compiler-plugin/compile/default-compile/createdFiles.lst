@@ -1,0 +1,5 @@
+com\example\hellospringboot\model\Book.class
+com\example\hellospringboot\controller\BookController.class
+com\example\hellospringboot\component\DataLoader.class
+com\example\hellospringboot\BooksApplication.class
+com\example\hellospringboot\repository\BookRepository.class
